@@ -90,7 +90,7 @@ int find(int x)
 		}
 	}
 	if (left > right)
-		printf("’“≤ªµΩ¡À");
+		printf("can not find");
 	return 0;
 }
 int main()
